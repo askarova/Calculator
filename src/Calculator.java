@@ -4,6 +4,13 @@ public class Calculator {
 
     }
 
-}
+    public static double substact(double num1, double num2){
+        return num2-num1;
 
+
+
+
+    }
+
+}
 
